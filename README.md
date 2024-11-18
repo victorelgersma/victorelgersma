@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victorelgersma
 - 👀 I’m interested in web stuff
 - 🌱 I’m currently learning HTMX & Astro
-- 📫 How to reach me @vic_elger
+- 📫 Reach me at @vic_elger
 
 
 <!---
