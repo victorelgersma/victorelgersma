@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorelgersma
-- 👀 I’m interested in web stuff
-- 🌱 I’m currently learning HTML, CSS and vanilla JS
+- 👀 I’m interested in HTML, CSS and vanilla JS
+- 🌱 I’m currently following MDN's Frontend Developer Curriculum
 - I have experience with React, NextJS, Astro, and Vue. 
 - 📫 Reach me at @vic_elger
 
