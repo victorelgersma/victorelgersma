@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @victorelgersma
 - 👀 I’m interested in web stuff
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and vanilla JS
+- I have experience with React, NextJS, Astro, and Vue. 
 - 📫 Reach me at @vic_elger
 
 
