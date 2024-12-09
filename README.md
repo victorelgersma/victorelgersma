@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorelgersma
 - 👀 I’m interested in web stuff
-- 🌱 I’m currently learning HTMX & Astro
+- 🌱 I’m currently learning HTML and CSS
 - 📫 Reach me at @vic_elger
 
 
