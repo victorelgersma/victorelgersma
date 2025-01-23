@@ -2,6 +2,7 @@
 - 👀 I’m interested in frontend web development
 - I am currently learning learning core web technologies with Scrimba
 - 📫 Get in touch! elgersmav@gmail.com
+- victor-elgersma.netlify.app
 
 
 <!---
