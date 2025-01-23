@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @victorelgersma
-- 👀 I’m interested in frontend web development, and am learning core web technologies. 
-- 📫 Get in touch elgersmav@gmail.com
+- 👀 I’m interested in frontend web development
+- I am currently learning learning core web technologies with Scrimba
+- 📫 Get in touch! elgersmav@gmail.com
 
 
 <!---
