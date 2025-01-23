@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victorelgersma
-- 👀 I’m interested in core web technologies
+- 👀 I’m interested in frontend web development, and am learning core web technologies. 
 - 🌱 I’m currently following MDN's Frontend Developer Curriculum
 - I have experience with React, NextJS, Astro, and Vue. 
 - 📫 Get in touch elgersmav@gmail.com
