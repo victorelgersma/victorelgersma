@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @victorelgersma
-- 👀 I’m interested in frontend web development
-- I am currently learning learning core web technologies with Scrimba
+- 👀 I’m interested in the web. 
 - 📫 Get in touch! elgersmav@gmail.com
-- victor-elgersma.netlify.app
 
 
 <!---
