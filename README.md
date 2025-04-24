@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @victorelgersma
-- 👀 I’m interested in the web. 
-- 📫 Get in touch! elgersmav@gmail.com
+
 
 
 <!---
