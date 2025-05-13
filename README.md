@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @victorelgersma
+- I am a full stack software engineer with experience with Node, TypeScript, Astro and more. 
 
 
 
