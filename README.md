@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @victorelgersma
-- I am a full stack software engineer with experience with Node, TypeScript, Astro and more.
-- https://victorelgersma.netlify.app/
+- Graduate Software Engineer at THG
+- Video editor turned software engineer 🎥 --> 👷
+- BA Oxon (2022)
+- 🔗 https://victorelgersma.github.io
 
 
 
