@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @victorelgersma
-- Graduate Software Engineer at THG
+- _Graduate Software Engineer_ at [THG Ingenuity](https://www.thgingenuity.com/)
+- Previously: Media Production Assistant at the Institute of Art and Ideas
 - 🔗 https://victorelgersma.github.io
 
 
