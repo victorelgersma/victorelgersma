@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @victorelgersma
 - Graduate Software Engineer at THG
-- Video editor turned software engineer 🎥 --> 👷
-- BA Oxon (2022)
 - 🔗 https://victorelgersma.github.io
 
 
