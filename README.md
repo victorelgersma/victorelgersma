@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victorelgersma
 - _Graduate Software Engineer_ at [THG Ingenuity](https://www.thgingenuity.com/)
 - Previously: Media Production Assistant at the Institute of Art and Ideas
-- BLOG: http://victorelgersma.ddns.net/blog/
+- personal home page: https://vjbe.net/
 
 
 
