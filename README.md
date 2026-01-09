@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorelgersma
 - MSc Student in Energy Science at the University of Utrecht 
-- Previously: _Graduate Software Engineer_ at [THG Ingenuity](https://www.thgingenuity.com/), Media Production Assistant at the Institute of Art and Ideas
+- Previously: _Graduate Software Engineer_ at [THG Ingenuity](https://www.thgingenuity.com/) (2022-2024), Media Production Assistant at the Institute of Art and Ideas (2022)
 
 
 
