@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victorelgersma
 
 - I am a HPS masters student at the University of Utrecht.
-- I have been:
+- Previously I was: 
   - a software engineer at THG Ingenuity (2023-2025)
   - a video editor at the Institute of Art and Ideas (2023)
   - a BA student in Physics at the University of Oxford (2018-2022)
