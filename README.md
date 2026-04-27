@@ -6,7 +6,7 @@
   - a video editor at the Institute of Art and Ideas (2023)
   - a BA student in Physics at the University of Oxford (2018-2022)
 
-Website vjbe.net | Email v.j.b.elgersma@students.uu.nl
+Website https://vjbe.net | Email v.j.b.elgersma@students.uu.nl
 <!---
 victorelgersma/victorelgersma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
