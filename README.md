@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @victorelgersma
+- 👋 Hi, I’m Victor Elgersma-Azmanov
 
 - I am a HPS masters student at the University of Utrecht.
 - Previously I was: 
