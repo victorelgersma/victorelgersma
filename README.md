@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Victor Elgersma-Azmanov
-
-- I am a HPS masters student at the University of Utrecht.
-- Previously I was: 
-  - a software engineer at THG Ingenuity (2023-2025)
-  - a video editor at the Institute of Art and Ideas (2023)
-  - a BA student in Physics at the University of Oxford (2018-2022)
+seize the means of computation! 
 
 Website https://vjbe.net | Email victor@vjbe.net
 <!---
